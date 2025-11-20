@@ -91,3 +91,4 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 
 
 ### RESULT:
+Thus, the program launches an interactive web interface that connects to the Hugging Face API to convert user text prompts into AI-generated images.
